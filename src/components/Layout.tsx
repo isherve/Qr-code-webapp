@@ -17,7 +17,7 @@ const Layout = ({ children }: LayoutProps) => {
           {children}
         </main>
         <footer className="text-center mt-12 text-gray-500 text-sm">
-          <p>© 2025 QR Code Generator | Made with React & Lovable</p>
+          <p>© 2025 QR Code Generator | Made wiith hervin &lovable</p>
         </footer>
       </div>
     </div>
